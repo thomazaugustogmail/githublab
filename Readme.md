@@ -8,3 +8,5 @@ Arquivo editado depois do "commit"
 Entendo o git diff
 
 Entendo o git reset
+
+Comitando informações para o GitHub
